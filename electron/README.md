@@ -1,5 +1,7 @@
 # Electron
 
+[![Docker Pulls](https://img.shields.io/docker/pulls/deluca/electron.svg)](https://hub.docker.com/r/deluca/electron/)
+
 See https://github.com/jprichardson/electron-mocha/issues/95#issuecomment-270222421
 
 ## Includes

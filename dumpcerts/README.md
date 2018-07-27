@@ -1,5 +1,7 @@
 # Dumpcerts
 
+[![Docker Pulls](https://img.shields.io/docker/pulls/deluca/dumpcerts.svg)](https://hub.docker.com/r/deluca/dumpcerts/)
+
 See https://github.com/containous/traefik/blob/master/contrib/scripts/dumpcerts.sh
 
 ## Usage
